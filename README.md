@@ -60,7 +60,11 @@
 
 ###
 
+<br clear="both">
 
+<img src="https://raw.githubusercontent.com/A7me2d/A7me2d/output/snake.svg" alt="Snake animation" />
+
+###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/A7me2d/count.svg?"  />
